@@ -40,7 +40,8 @@ Beyond cybersecurity, I also have a strong interest in **web development** and *
 ---  
 
 ## 📬 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/thenabeelarif](https://www.linkedin.com/in/nabeel-arif-2a515836b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/thenabeelarif](https://www.linkedin.com/in/nabeel-arif-2a515836b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://[www.upwork.com/freelancers/your-profile-url](https://www.upwork.com/freelancers/~016b66208fc9f66c0b?companyReference=1931211903852825124&mp_source=share))
 📧 **Email:** nbyeeel@gmail.com
 
 💡 _"Every vulnerability is an opportunity to learn, secure, and innovate!"_
