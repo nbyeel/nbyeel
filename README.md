@@ -43,7 +43,7 @@ Beyond cybersecurity, I also have a strong interest in **web development** and *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/thenabeelarif](https://www.linkedin.com/in/nabeel-arif-2a515836b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://[www.upwork.com/freelancers/your-profile-url](https://www.upwork.com/freelancers/~016b66208fc9f66c0b?companyReference=1931211903852825124&mp_source=share))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/your-username](https://www.instagram.com/nbyeeel?igsh=MXY4ZHBuNm54bHozMg%3D%3D&utm_source=qr))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nbyeeeeel@gmail.com)
 
 
 💡 _"Every vulnerability is an opportunity to learn, secure, and innovate!"_
