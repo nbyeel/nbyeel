@@ -41,10 +41,10 @@ Beyond cybersecurity, I also have a strong interest in **web development** and *
 
 ## 📬 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thenabeelarif)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/127.0.0.97?igsh=bWFoaGNiMW9sazZm&utm_source=qr)  
+[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/127.0.0.97?igsh=bWFoaGNiMW9sazZm&utm_source=qr](https://www.instagram.com/nbyeeel?igsh=MXY4ZHBuNm54bHozMg%3D%3D&utm_source=qr))  
 📧 **Email:** nbyeeel@gmail.com
 
-💡 _"Every vulnerability is an opportunity—to learn, secure, and innovate!"_
+💡 _"Every vulnerability is an opportunity to learn, secure, and innovate!"_
 
 
 <!---
